@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/ZachZeng/excel-sales/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/ZachZeng/excel-sales/static/js/main.64feb657.chunk.js",
+    "main.js.map": "/ZachZeng/excel-sales/static/js/main.64feb657.chunk.js.map",
+    "runtime-main.js": "/ZachZeng/excel-sales/static/js/runtime-main.27c98082.js",
+    "runtime-main.js.map": "/ZachZeng/excel-sales/static/js/runtime-main.27c98082.js.map",
+    "static/css/2.95456d05.chunk.css": "/ZachZeng/excel-sales/static/css/2.95456d05.chunk.css",
+    "static/js/2.8fefed4c.chunk.js": "/ZachZeng/excel-sales/static/js/2.8fefed4c.chunk.js",
+    "static/js/2.8fefed4c.chunk.js.map": "/ZachZeng/excel-sales/static/js/2.8fefed4c.chunk.js.map",
+    "static/js/3.620c368d.chunk.js": "/ZachZeng/excel-sales/static/js/3.620c368d.chunk.js",
+    "static/js/3.620c368d.chunk.js.map": "/ZachZeng/excel-sales/static/js/3.620c368d.chunk.js.map",
+    "index.html": "/ZachZeng/excel-sales/index.html",
+    "static/css/2.95456d05.chunk.css.map": "/ZachZeng/excel-sales/static/css/2.95456d05.chunk.css.map",
+    "static/css/main.8c8b27cf.chunk.css.map": "/ZachZeng/excel-sales/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.8fefed4c.chunk.js.LICENSE.txt": "/ZachZeng/excel-sales/static/js/2.8fefed4c.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/ZachZeng/excel-sales/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.27c98082.js",
+    "static/css/2.95456d05.chunk.css",
+    "static/js/2.8fefed4c.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.64feb657.chunk.js"
+  ]
+}
